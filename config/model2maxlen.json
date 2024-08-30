@@ -1,0 +1,6 @@
+{
+    "vicuna-v1.5-7b": 4000,
+    "vicuna-v1.5-7b-streaming": 4000,
+    "vicuna-v1.5-7b-long": 16000,
+    "vicuna-v1.5-7b-ls": 8000
+}

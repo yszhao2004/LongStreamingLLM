@@ -1,0 +1,6 @@
+{
+    "vicuna-v1.5-7b": "lmsys/vicuna-7b-v1.5",
+    "vicuna-v1.5-7b-long": "lmsys/vicuna-7b-v1.5",
+    "vicuna-v1.5-7b-streaming": "lmsys/vicuna-7b-v1.5",
+    "vicuna-v1.5-7b-ls": "lmsys/vicuna-7b-v1.5"
+}
