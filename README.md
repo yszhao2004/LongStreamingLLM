@@ -1,5 +1,5 @@
-# LongStreamingLLM (course project of "基础学科交叉实践课程" 2024 summer)
-
+# LongStreamingLLM 
+(course project of "基础学科交叉实践课程" 2024 summer)
 ## Test on MT-Bench
     cd combine
     CUDA_VISIBLE_DEVICES=0 python run.py
