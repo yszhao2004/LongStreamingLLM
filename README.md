@@ -5,9 +5,13 @@
     CUDA_VISIBLE_DEVICES=0 python run.py
 
 ## Test on LongBench
+### original model
     CUDA_VISIBLE_DEVICES=0 python pred.py
+### LongLM
     CUDA_VISIBLE_DEVICES=0 python pred_long.py
+### StreamingLLM
     CUDA_VISIBLE_DEVICES=0 python pred_streaming.py
+### LongStreamingLLM
     CUDA_VISIBLE_DEVICES=0 python pred_longstreaming.py
     
 This project is based on the projects below:
