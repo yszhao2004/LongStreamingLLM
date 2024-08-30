@@ -5,7 +5,7 @@
     CUDA_VISIBLE_DEVICES=0 python run.py
 
 ## Test on LongBench
-### original model
+### Original Model
     CUDA_VISIBLE_DEVICES=0 python pred.py
 ### LongLM
     CUDA_VISIBLE_DEVICES=0 python pred_long.py
